@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>لوحة المذاكرة اليومية</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Cairo', sans-serif;
+      background: linear-gradient(to right, #d0f0c0, #f5fff8);
+      margin: 0;
+      padding: 0;
+      color: #222;
+    }
+
+    header {
+      background-color: #136c3d;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 28px;
+      border-bottom: 5px solid #0b4024;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    .section-title {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #136c3d;
+      border-bottom: 2px solid #136c3d;
+      padding-bottom: 5px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    a {
+      text-decoration: none;
+      color: #0e4e2f;
+      background-color: #cde7d1;
+      padding: 10px 15px;
+      border-radius: 10px;
+      display: inline-block;
+      transition: all 0.3s ease;
+    }
+
+    a:hover {
+      background-color: #a5d6a7;
+      color: #000;
+    }
+
+    iframe {
+      width: 100%;
+      height: 300px;
+      border: none;
+      margin-top: 15px;
+    }
+
+    .footer {
+      text-align: center;
+      background: #f0f0f0;
+      padding: 10px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>🎓 لوحة المذاكرة اليومية الخاصة بي</header>
+
+  <section>
+    <div class="section-title">✅ الورد اليومي</div>
+    <ul>
+      <li><a href="https://www.islambook.com/azkar/1/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD" target="_blank">أذكار الصباح</a></li>
+      <li><a href="https://www.islambook.com/azkar/2/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1" target="_blank">أذكار المساء</a></li>
+      <li><a href="https://read.tafsir.one/alsidi#pg_1" target="_blank">تفسير السعدي</a></li>
+      <li><a href="https://altadabbur.com/#aya=1_1&m=hafs&qaree=maher&trans=tadabor" target="_blank">تدبر القرآن</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-title">📚 المذاكرة والتتبع</div>
+    <ul>
+      <li><a href="https://docs.google.com/spreadsheets/u/0/?hl=ar" target="_blank">جدول المذاكرة - Google Sheets</a></li>
+      <li><a href="https://www.youtube.com/shorts/pp5BO2e8lMk" target="_blank">تمارين قصيرة</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-title">🎧 محاضرات و مونتاج</div>
+    <ul>
+      <li><a href="https://www.youtube.com/@ybh_1000/shorts" target="_blank">قناة اليوتيوب التعليمية</a></li>
+      <li><a href="https://www.youtube.com/watch?v=9Hf-OQ-MZ4A&list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY&ab_channel=mostafamakramTV" target="_blank">كورسات المونتاج - مصطفى مكرم</a></li>
+    </ul>
+  </section>
+
+  <div class="footer">🌙 تم التصميم بواسطة مساعدك - جاهز لخدمتك في أي وقت</div>
+
+</body>
+</html>
